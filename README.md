@@ -1,2 +1,2 @@
 # GitHubCarlosMagno
- Programas e afins
+ Programas e afins.
